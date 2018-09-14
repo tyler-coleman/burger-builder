@@ -1,3 +1,10 @@
+For now, this app is only intended to be run locally. Feel free to setup your own project folder, install all 
+dependencies with npm install, and run the app on your own machine with npm start. <br>
+Once it's a bit more polished, I hope to host the app either on its own server or as a route through my
+personal website found at tyler-coleman@github.io<br>
+Thanks for stopping by!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
