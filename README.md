@@ -1,7 +1,7 @@
 For now, this app is only intended to be run locally. Feel free to setup your own project folder, install all 
 dependencies with npm install, and run the app on your own machine with npm start. <br><br>
 Once it's a bit more polished, I hope to host the app either on its own server or as a route through my
-personal website found at tyler-coleman@github.io<br><br>
+personal website found at tyler-coleman.github.io<br><br>
 Thanks for stopping by!
 
 
